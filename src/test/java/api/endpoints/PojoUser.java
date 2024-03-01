@@ -2,6 +2,11 @@ package api.endpoints;
 
 public class PojoUser {
 	
+	/**Changes made to test Git and jenkins
+	 * 
+	 * 
+	 */
+	
 	
 	int id;
 	
